@@ -2,8 +2,17 @@ body {
   background-color: #C4DAE2;
 }
 
-.title {
+.center {
   text-align: center;
+}
+
+.indent {
+  text-indent: 30px;
+}
+
+.caption {
+  text-align: center;
+  font-size: 11px;
 }
 
 .index .flex {
